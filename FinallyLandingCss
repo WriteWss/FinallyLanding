@@ -330,7 +330,7 @@
 
       width: 0%;
 
-      background: vinous;
+      background: darkred;
 
       transition: width 0.1s linear;
 
